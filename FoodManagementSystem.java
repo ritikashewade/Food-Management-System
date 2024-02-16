@@ -5,11 +5,6 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 public class FoodManagementSystem extends Order{
-public FoodManagementSystem(String f, String c, int p, int id) {
-		super(f, c, p, id);
-		// TODO Auto-generated constructor stub
-	}
-
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Food items: ");
