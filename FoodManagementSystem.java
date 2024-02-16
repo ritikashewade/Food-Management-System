@@ -36,9 +36,5 @@ public static void main(String[] args) {
 		System.out.println("Item not available");
 	}
 	System.out.println();
-	
-	
-	
-	
 }
 }
